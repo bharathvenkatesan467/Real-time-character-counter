@@ -1,0 +1,28 @@
+.d1{
+    max-width: 500px;
+    margin: 100px auto;
+    height: auto;
+    background-color: skyblue;
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+}
+.s2{
+    float: right;
+    margin-left: 10px;
+}
+.d2{
+    text-align: center;
+    font: bold;
+}
+textarea{
+    width:350px;
+    height:100px;
+    margin-bottom: 10px;
+}
+.s3{
+    padding:0px 10px;
+}
+body{
+    background-color: #E2DAD6;
+}
